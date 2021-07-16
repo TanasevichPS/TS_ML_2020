@@ -7,9 +7,14 @@
 + Для построения моделей используются: 
     + Random Forest Classifier
     + Gradient Boosting Classifier 
-    + Random Forest Regressor, Linear Regression, Gradient Boosting Regressor
+    + Random Forest Regressor
+    + Linear Regression
+    + Gradient Boosting Regressor
 
 + Для оценки качества модели используются: 
-    auc, f1_score, accuracy_score, roc_auc_score
+    + auc
+    + f1 score
+    + accuracy score 
+    + roc_auc score
 
 
