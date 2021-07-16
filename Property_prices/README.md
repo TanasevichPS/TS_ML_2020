@@ -1,4 +1,6 @@
 # Property prices
++ Данные взяты с [kaggle](https://www.kaggle.com/c/introml-2020-property-prices/data)
+
 + Предоставлен набор данных объявлений о продаже недвижимости в некотором городе N. Задача - предсказать цену недвижимости по содержанию объявления. 
 Разбиение на Train/Test выполнено по времени объявления.
 
@@ -16,5 +18,4 @@
     + f1 score
     + accuracy score 
     + roc_auc score
-
 
