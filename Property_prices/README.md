@@ -3,5 +3,5 @@
 Используется метрика mean absolute error - MAE. Разбиение на Train/Test выполнено по времени объявления
 
 Для построения моделей используются: RandomForestClassifier, GradientBoostingClassifier, RandomForestRegressor, LinearRegression, GradientBoostingRegressor
-Для оценки качества модели используются: auc, f1_score, accuracy_score, roc_auc_score
+</br> Для оценки качества модели используются: auc, f1_score, accuracy_score, roc_auc_score
 
