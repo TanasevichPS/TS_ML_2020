@@ -1,5 +1,5 @@
-# Classification_Regression
-Рассматриваются следующие задачи:
+## Простейшие задачи на классификацию и регрессию:
+
 + Классификации
   + [задачи банковского скоринга](https://github.com/TanasevichPS/TS_ML_2020/blob/main/Classification_Regression/bank.ipynb)
 + Регресии
