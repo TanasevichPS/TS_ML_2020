@@ -6,4 +6,4 @@
 * [Networks](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Networks)
 * [Classification and Regression](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Classification_Regression)
 * [Recommend systems]()
-* [Computer_Vision](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Computer_Vision)
+* [Computer Vision](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Computer_Vision)
