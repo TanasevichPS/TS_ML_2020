@@ -5,3 +5,5 @@
 * [Language detection](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Language_detection)
 * [Networks](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Networks)
 * [Classification and Regression](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Classification_Regression)
+* [Recommend systems]()
+* [Architect-styles_classification]()
