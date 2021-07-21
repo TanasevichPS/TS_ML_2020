@@ -1,6 +1,6 @@
 # Техносфера курс "Введение в машинное обучение"
-[оформление](https://gist.github.com/Jekins/2bf2d0638163f1294637#Parag)
-Проектные работы в рамках курса 
+
+Выполненные работы в рамках курса:
 * [Property_prices](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Property_prices)
 * [Digit Classification](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Digit_Classification)
 * [Language detection](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Language_detection)
