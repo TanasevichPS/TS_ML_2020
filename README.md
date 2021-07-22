@@ -1,5 +1,10 @@
 # Техносфера курс "Введение в машинное обучение"
 
+Получаемые навыки:
++ применение алгоритмов машинного обучения к практическим задачам
++ обработка изображения с использованием искусственных нейронных сетей
++ комплексное решение задач машинного обучения
+
 Выполненные работы в рамках курса:
 * [Property_prices](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Property_prices)
 * [Digit Classification](https://github.com/TanasevichPS/TS_ML_2020/tree/main/Digit_Classification)
